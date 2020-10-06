@@ -1,0 +1,23 @@
+# Base configs
+baseurl: ""
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-179598127-1"
+
+# UI configs
+title: "Photography by Mauro Ordoñez"
+subtitle: "Las que no iban a salir"
+author: "Mauro Ordóñez Turrado"
+header:
+  title: "Las que no iban a salir"
+  subtitle: "by Mauro Ordóñez"
+footer:
+  name: "Mauro Ordoñez Turrado \U0001F601"
+  bio: "I like to make photos"
+#  github: 'Want a website like this for yourself for free? Just <a href="https://github.com/ramswaroop/photography">fork me on github</a> ;)'
+web_design: >
+  <a href="http://sergiofaya.me/">@SergioFaya</a>
+social_urls:
+  twitter: "https://twitter.com/mauro_dinamita"
+  instagram: "https://www.instagram.com/mauro.ord"
+  linkedin: "https://www.linkedin.com/in/mauro-ordo%C3%B1ez-turrado-501979163/"
